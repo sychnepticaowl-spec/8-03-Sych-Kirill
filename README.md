@@ -20,7 +20,7 @@
 
 ### Настройки Runner
 
-![GitLab Runner Settings](https://github.com/sychnepticaowl-spec/8-03-Sych-Kirill/blob/main/screenshots/screenshot-runner.png?raw=true)
+![GitLab Runner Settings](https://github.com/sychnepticaowl-spec/8-03-Sych-Kirill/blob/main/screenshots/runner-settings.png?raw=true)
 
 **Конфигурация Runner:**
 - **ID:** #3 (Qaha-FqLX)
