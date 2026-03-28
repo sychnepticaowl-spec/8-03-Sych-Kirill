@@ -34,7 +34,7 @@ test-app:
   only:
     - main
 ```
-![alt text] (https://github.com/sychnepticaowl-spec/8-03-Sych-Kirill/blob/main/screenshots/screenshot-pipeline.png)
+![Pipeline Status](https://github.com/sychnepticaowl-spec/8-03-Sych-Kirill/blob/main/screenshots/screenshot-pipeline.png?raw=true)
 
 
 #
