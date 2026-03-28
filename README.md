@@ -14,7 +14,7 @@ stages:
 
 build-image:
   stage: build
-  image: docker:20.10  # ← Изменено с docker:latest
+  image: docker:20.10  
   tags:
     - docker
   script:
@@ -25,7 +25,7 @@ build-image:
 
 test-app:
   stage: test
-  image: docker:20.10  # ← Изменено с docker:latest
+  image: docker:20.10  
   tags:
     - docker
   script:
@@ -35,7 +35,7 @@ test-app:
     - main
 ```
 ![Pipeline Status](https://github.com/sychnepticaowl-spec/8-03-Sych-Kirill/blob/main/screenshots/screenshot-pipeline.png?raw=true)
-
+![Pipeline Status](https://github.com/sychnepticaowl-spec/8-03-Sych-Kirill/blob/main/screenshots/runner-settings.png?raw=true)
 
 #
 #
