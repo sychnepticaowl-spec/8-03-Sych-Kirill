@@ -9,10 +9,14 @@
 
 ### Что было сделано:
 
-1. ✅ Развёрнут GitLab локально с использованием Vagrant
-2. ✅ Создан проект `my-first-project` и пустой репозиторий
-3. ✅ Зарегистрирован gitlab-runner для проекта
-4. ✅ Runner запущен в режиме Docker с тегом `docker`
+1. Развёрнут GitLab локально с использованием Vagrant
+2. Создан проект `my-first-project` и пустой репозиторий
+3. Зарегистрирован gitlab-runner для проекта
+4. Runner запущен в режиме Docker с тегом `docker`
+   
+### Gitlab
+
+![GitLab Runner Settings](https://github.com/sychnepticaowl-spec/8-03-Sych-Kirill/blob/main/screenshots/gitlab.png?raw=true)
 
 ### Настройки Runner
 
@@ -22,7 +26,7 @@
 - **ID:** #3 (Qaha-FqLX)
 - **Executor:** Docker
 - **Tags:** docker
-- **Status:** Active ✅
+- **Status:** Active
   
 Runtime platform                                    arch=amd64 os=linux pid=5026 revision=ac71f4d8 version=18.10.0
 gitlab-runner: Service is running
@@ -33,9 +37,9 @@ gitlab-runner: Service is running
 
 ### Что было сделано:
 
-1. ✅ Запушен репозиторий на GitLab
-2. ✅ Создан файл `.gitlab-ci.yml` с необходимыми этапами
-3. ✅ Pipeline успешно выполняется
+1.  Запушен репозиторий на GitLab
+2.  Создан файл `.gitlab-ci.yml` с необходимыми этапами
+3.  Pipeline успешно выполняется
 
 ### Результат выполнения Pipeline
 
