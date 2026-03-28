@@ -16,7 +16,7 @@
    
 ### Gitlab
 
-![GitLab Runner Settings](https://github.com/sychnepticaowl-spec/8-03-Sych-Kirill/blob/main/screenshots/gitlab.png?raw=true)
+![Gitlab](https://github.com/sychnepticaowl-spec/8-03-Sych-Kirill/blob/main/screenshots/gitlab.png?raw=true)
 
 ### Настройки Runner
 
